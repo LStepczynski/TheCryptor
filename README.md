@@ -7,5 +7,5 @@ When activated by pressing a key combination TheCryptor **reads the text stored 
 decrypted version** depending on the choosen mode <br>
 An example usage would be:
   - ```Ctrl``` + ```C``` to copy the text
-  - ```Ctrl``` + ```;``` to encrypt the text that is in the clipboard
+  - ```Ctrl``` + ```[``` to use the function that the user selected
   - ```Ctrl``` + ```V``` to paste the encrypted text
