@@ -1,3 +1,4 @@
+from unidecode import unidecode
 
 class TheCryptor:
     @staticmethod
@@ -66,5 +67,4 @@ class TheCryptor:
         key = TheCryptor.get_key(binary_string, key)
         ciphered_string = ''.join(str(int(not(int(bin_num) ^ int(key_num)))) for bin_num, key_num in zip(binary_string, key))
         return ciphered_string
-
 
