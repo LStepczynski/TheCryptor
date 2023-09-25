@@ -1,4 +1,4 @@
-# TheCryptor
+# TheCryptor (Unfinished)
 TheCryptor is a program that makes it easy and quick to encrypt and decrypt text removing the time consuming steps of using an online 
 converter by reading and replacing text the user copied to the clipboard.
 
